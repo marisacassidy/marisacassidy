@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @marisacassidy!
-- 👀 I’m interested in effectively managing data at Meltwater.
-- 🌱 I’m currently learning Python and Data Analytics.
